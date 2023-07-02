@@ -224,7 +224,7 @@ body {
 }
 .essay {
   height: 720px;
-  width: 1080px;
+  
   padding: 50px;
   margin: 20px;
   box-shadow: 10px 10px 20px black;
@@ -251,7 +251,7 @@ body {
 }
 .web-dev-sample1 {
   height: 720px;
-  width: 1080px;
+  
   image-rendering: inherit;
   margin: 50px;
   padding: 20px;
@@ -288,7 +288,7 @@ body {
   margin: 20px;
   background-color: rgb(235, 228, 228);
   height: 720px;
-  width: 1080px;
+
 
   padding: 50px;
   align-items: center;
